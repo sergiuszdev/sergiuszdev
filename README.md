@@ -20,7 +20,6 @@ I love checking out new technologies and programming languages. I try to be an e
 ## Contact
 Reach me out here
 -  [LinkedIn](https://www.linkedin.com/in/szymonkluska/)
--  discord: sergiuszeternal
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szymonsergiusz&hide_progress=true)
 ![szymonsergiusz](https://komarev.com/ghpvc/?username=szymonsergiusz&label=Profile%20views&color=0e75b6&style=flat)
