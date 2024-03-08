@@ -24,5 +24,7 @@ Reach me out here
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szymonsergiusz&hide_progress=true)
 ![szymonsergiusz](https://komarev.com/ghpvc/?username=szymonsergiusz&label=Profile%20views&color=0e75b6&style=flat)
 ## Cats
-![](https://github.com/SzymonSergiusz/SzymonSergiusz/blob/main/cats3.jpeg?raw=true)
-![](https://github.com/SzymonSergiusz/SzymonSergiusz/blob/main/cats4.JPG?raw=true)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/SzymonSergiusz/SzymonSergiusz/blob/main/cats3.jpeg?raw=true" width="50%" alt="Cat Image 1">
+    <img src="https://github.com/SzymonSergiusz/SzymonSergiusz/blob/main/cats4.JPG?raw=true" width="50%" alt="Cat Image 2">
+</div>
