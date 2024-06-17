@@ -1,4 +1,4 @@
-# [🎶 Hi! My name is](https://youtu.be/SFH4tWd644g?si=ZF1PID2_eP7HnX6D) Szymon
+# 🎶 Hi! My name is Szymon
 I'm student from Poland currently studying Computer Engineering at the Faculty of Information and Communication Technology at the [Wrocław University of Technology](https://pwr.edu.pl/en/).
 🔍 I'm looking for an opportunity to expand my knowledge and gain experience in my first job/internship.
 I love checking out new technologies and programming languages. I try to be an engineer, not just a programmer.
