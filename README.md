@@ -2,6 +2,9 @@
 I'm student from Poland currently studying Computer Engineering at the Faculty of Information and Communication Technology at the [Wrocław University of Technology](https://pwr.edu.pl/en/).
 🔍 I'm looking for an opportunity to expand my knowledge and gain experience in my first job/internship.
 I love checking out new technologies and programming languages. I try to be an engineer, not just a programmer.
+
+<b> I would love to participate in any Swift/Rust related project </b>
+
 ## 🧑🏻‍💻My favourite technologies:
 [![Fav Skills](https://skillicons.dev/icons?i=kotlin,python,vuejs,svelte,postgresql,linux,apple,github,postman)](https://skillicons.dev)
 ## 💻But I'm also familiar with these ones
