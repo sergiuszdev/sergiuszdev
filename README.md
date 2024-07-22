@@ -9,7 +9,7 @@ I love checking out new technologies and programming languages. I try to be an e
 ## 🧠And still learning
 [![My Skills](https://skillicons.dev/icons?i=rust,swift,)](https://skillicons.dev)
 ## 📚In the close future I'm eager to try out/learn
-[![My Skills](https://skillicons.dev/icons?i=elixir,zig,nim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=elixir,zig)](https://skillicons.dev)
 ## 😸In my free time I enjoy
 - 📖 reading (mostly sci-fi) books (currently reading Dan Simmons' Endymion and Martin's A Feast for Crows)
 - 🎸 learning to play the guitar (especially [this song](https://youtu.be/A2n2IpD00nA?si=2wR0toYq-jv1HE24))
