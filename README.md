@@ -30,7 +30,7 @@ I love checking out new technologies and programming languages. I try to be an e
 - 🎼going to concerts/cinema
 ## Contact
 Reach me out here
--  TODO("add my socials here")
+- 📧 sergiusz.dev@proton.me
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szymonsergiusz&hide_progress=true)
 ![szymonsergiusz](https://komarev.com/ghpvc/?username=szymonsergiusz&label=Profile%20views&color=0e75b6&style=flat)
