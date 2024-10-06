@@ -4,8 +4,8 @@ I'm a student from Poland currently studying Computer Engineering at the Faculty
 I love checking out new technologies and programming languages. I try to be an engineer, not just a programmer.
 <br><b> I would love to participate in any Swift/Rust-related project </b>
 ## Currently working on
-- [Chessblazer](https://github.com/SzymonSergiusz/Chessblazer) - UCI-compatible Chess Engine in early development, fully written in Swift <img src="https://skillicons.dev/icons?i=swift" width="20px" height="20px" />
-- My engineering thesis (no repo yet)
+- [Chessblazer](https://github.com/SzymonSergiusz/Chessblazer) - UCI-compatible Chess Engine + dedicated GUI, currently in a playable state, fully written in Swift <img src="https://skillicons.dev/icons?i=swift" width="20px" height="20px" />
+- My engineering thesis made with SvelteKit + Vapor + PostgreSQL (private repo, results will be deployed soon!)
 ## My recent projects
 - [KGP Urban Game](https://github.com/SzymonSergiusz/kgp-urban-game) - Fullstack application for an urban game made with Nuxt3/Vue + FastAPI/Python + PostgreSQL. You can check it out [here](https://koronagorpolskich.vercel.app/)! 
 - [Space Impact Clone](https://github.com/SzymonSergiusz/SO2-space-threads-invader) - A minigame heavily inspired by an old Nokia 3310 game. Created with Python, Pygame and threads.py library. We even managed to win a small competition for the best game in the college classes' group
