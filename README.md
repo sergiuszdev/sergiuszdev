@@ -4,7 +4,7 @@ I'm a student from Poland currently studying Computer Engineering at the Faculty
 I love checking out new technologies and programming languages. I try to be an engineer, not just a programmer.
 <br><b> I would love to participate in any Swift/Rust-related project </b>
 ## Currently working on
-- [Chessblazer](https://github.com/SzymonSergiusz/Chessblazer) - UCI-compatible Chess Engine + dedicated GUI, currently in a playable state, fully written in Swift <img src="https://skillicons.dev/icons?i=swift" width="20px" height="20px" />
+- [Chessblazer](https://github.com/SzymonSergiusz/Chessblazer) - UCI-compatible Chess Engine + dedicated GUI, currently in a playable state, fully written in Swift
 - My engineering thesis made with SvelteKit + Vapor + PostgreSQL (private repo, results will be deployed soon!)
 ## My recent projects
 - [KGP Urban Game](https://github.com/SzymonSergiusz/kgp-urban-game) - Fullstack application for an urban game made with Nuxt3/Vue + FastAPI/Python + PostgreSQL. You can check it out [here](https://koronagorpolskich.vercel.app/)! 
@@ -14,15 +14,15 @@ I love checking out new technologies and programming languages. I try to be an e
 
 
 ## 🧑🏻‍💻My favorite technologies:
-[![Fav Skills](https://skillicons.dev/icons?i=kotlin,python,vuejs,svelte,postgresql,linux,apple,github,postman)](https://skillicons.dev)
+[![Fav Skills](https://skillicons.dev/icons?i=swift,python,svelte,vuejs,kotlin,postgresql,linux,apple,github,postman)](https://skillicons.dev)
 ## 💻But I'm also familiar with these ones
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,cs,mysql,androidstudio,windows)](https://skillicons.dev)
 ## 🧠And still learning
-[![My Skills](https://skillicons.dev/icons?i=rust,swift,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
 ## 📚In the near future I'm eager to try out/learn
 [![My Skills](https://skillicons.dev/icons?i=elixir,zig)](https://skillicons.dev)
 ## 😸 After hours I enjoy
-- 📖 reading (mostly sci-fi) books (currently reading Dan Simmons' Endymion and Martin's A Feast for Crows)
+- 📖 reading (mostly sci-fi) books (currently reading Dan Simmons' The Rise of Endymion and Martin's A Feast for Crows)
 - 🎸 learning to play the guitar (especially [this song](https://youtu.be/A2n2IpD00nA?si=2wR0toYq-jv1HE24))
 - 🏊🏻swimming
 - ♟️chess
