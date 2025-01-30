@@ -1,24 +1,19 @@
-# 🎶 Hi! My name is Szymon
-I'm a student from Poland currently studying Computer Engineering at the Faculty of Information and Communication Technology at the [Wrocław University of Technology](https://pwr.edu.pl/en/).
-🔍
-I love checking out new technologies and programming languages. I try to be an engineer, not just a programmer.
-<br><b> I would love to participate in any Swift/Rust-related project </b>
+I'm a software developer with an engineering title in Computer Engineering. Currently, I am continuing my master's studies 👨‍💻
+<br><b> I would love to participate in any Swift/Godot-related project </b>
 ## Currently working on
 - [Chessblazer](https://github.com/SzymonSergiusz/Chessblazer) - UCI-compatible Chess Engine + dedicated GUI, currently in a playable state, fully written in Swift
 - My engineering thesis made with SvelteKit + Vapor + PostgreSQL (private repo, results will be deployed soon!)
 ## My recent projects
-- [KGP Urban Game](https://github.com/SzymonSergiusz/kgp-urban-game) - Fullstack application for an urban game made with Nuxt3/Vue + FastAPI/Python + PostgreSQL. You can check it out [here](https://koronagorpolskich.vercel.app/)! 
 - [Space Impact Clone](https://github.com/SzymonSergiusz/SO2-space-threads-invader) - A minigame heavily inspired by an old Nokia 3310 game. Created with Python, Pygame and threads.py library. We even managed to win a small competition for the best game in the college classes' group
-
-
+- [KGP Urban Game](https://github.com/SzymonSergiusz/kgp-urban-game) - Fullstack application for an urban game made with Nuxt3/Vue + FastAPI/Python + PostgreSQL. You can check it out [here](https://koronagorpolskich.vercel.app/)! 
 
 
 ## 🧑🏻‍💻My favorite technologies:
 [![Fav Skills](https://skillicons.dev/icons?i=swift,python,svelte,vuejs,kotlin,postgresql,linux,apple,github,postman)](https://skillicons.dev)
-## 💻But I'm also familiar with these ones
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,cs,mysql,androidstudio,windows)](https://skillicons.dev)
+<!-- ## 💻But I'm also familiar with these ones
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,cs,mysql,androidstudio,windows)](https://skillicons.dev) -->
 ## 🧠And still learning
-[![My Skills](https://skillicons.dev/icons?i=rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot,rust)](https://skillicons.dev)
 ## 📚In the near future I'm eager to try out/learn
 [![My Skills](https://skillicons.dev/icons?i=elixir,zig)](https://skillicons.dev)
 ## 😸 After hours I enjoy
@@ -29,7 +24,7 @@ I love checking out new technologies and programming languages. I try to be an e
 - 🎮 playing games with my friends
 - 🎼going to concerts/cinema
 ## Contact
-Reach me out here
+Feel free to reach me out here
 - 📧 sergiusz.dev@proton.me
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szymonsergiusz&hide_progress=true)
