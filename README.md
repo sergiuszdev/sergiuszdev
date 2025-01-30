@@ -27,7 +27,7 @@ I'm a software developer with an engineering title in Computer Engineering. Curr
 Feel free to reach me out here
 - 📧 sergiusz.dev@proton.me
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szymonsergiusz&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiuszdev&hide_progress=true)
 ![szymonsergiusz](https://komarev.com/ghpvc/?username=szymonsergiusz&label=Profile%20views&color=0e75b6&style=flat)
 ## Cats
 <p align="center">
