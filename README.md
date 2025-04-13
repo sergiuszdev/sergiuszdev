@@ -5,7 +5,7 @@ I'm a software developer with an engineering title in Computer Engineering. Curr
 - My engineering thesis made with SvelteKit + Vapor + PostgreSQL (private repo, results will be deployed soon!)
 ## My recent projects
 - [Space Impact Clone](https://github.com/SzymonSergiusz/SO2-space-threads-invader) - A minigame heavily inspired by an old Nokia 3310 game. Created with Python, Pygame and threads.py library. We even managed to win a small competition for the best game in the college classes' group
-- [KGP Urban Game](https://github.com/SzymonSergiusz/kgp-urban-game) - Fullstack application for an urban game made with Nuxt3/Vue + FastAPI/Python + PostgreSQL. You can check it out [here](https://koronagorpolskich.vercel.app/)! 
+- [KGP Urban Game](https://github.com/SzymonSergiusz/kgp-urban-game) - Fullstack application for an urban game made with Nuxt3/Vue + FastAPI/Python + PostgreSQL. You can't check it out [here](https://koronagorpolskich.vercel.app/)! 
 
 
 ## 🧑🏻‍💻My favorite technologies:
